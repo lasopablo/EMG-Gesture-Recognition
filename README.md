@@ -2,7 +2,7 @@
 
 # this was a group project (prototype) consisting on multiple computer scientist, several biomedical engineerers and one industrial engineer.
 
-# this code is uncomplete and unfinished (requires some minor changes and other files like an sdk or the hardware for the myo armband).
+# this code is incomplete and unfinished (requires some minor changes and other files like an sdk or the hardware for the myo armband).
 
 # the goal of this project was to use the data provided by the myoband (position and gestures) to construct an alphabet.
 
