@@ -1,6 +1,6 @@
 # EMG: a myo armband for people who can't talk
 
-this was a group project (prototype) consisting on multiple computer scientist, several biomedical engineerers and one industrial engineer.
+this was a group project (prototype) consisting on multiple computer scientists, several biomedical engineerers and one industrial engineer.
 
 this code is incomplete and unfinished (requires some minor changes and other files like an sdk or the hardware for the myo armband).
 
