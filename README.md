@@ -9,3 +9,7 @@ the goal of this project was to use the data provided by the myoband (position a
 the function of this proyotype is to produce letters for each gesture, in each position, available.
 
 it can also "predict" some words that are in a notebook file by taking into account the first letter(s).
+
+some links that may be useful: 
+https://developerblog.myo.com/myo-unleashed-python/
+https://myo-python.readthedocs.io/en/latest/
